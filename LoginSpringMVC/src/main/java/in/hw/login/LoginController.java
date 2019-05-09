@@ -17,7 +17,7 @@ public class LoginController {
       String message;
       if(userName != null && 
     		  !userName.equals("") 
-    		  && userName.equals("geeta") && 
+    		  && userName.equals("Geetaa") && 
     		  password != null && 
     		  !password.equals("") && 
     		  password.equals("123")){
